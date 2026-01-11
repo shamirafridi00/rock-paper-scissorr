@@ -4,4 +4,4 @@ implement basic UI for Rock-Paper-Scissors:
   create new pages, stack the results and rounds on the same page.
 - the result will be display there in the middle of the screen.
 - there is no need for css.
-- purpsoe to learn DOM and event listeners.
+- purpose to learn DOM and event listeners.
